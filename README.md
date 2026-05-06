@@ -50,9 +50,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
----
-
-## 📫 Contact
 ## 📫 Contact
 
 <p align="center">
