@@ -17,8 +17,8 @@
 
 ## 🧭 About me
 
-- 🎓 I’m interested in AI, interface design, and computational aesthetics
-- 🧪 Currently exploring: A very short history in AI, Visual Storytelling, 
+- 🎓 I’m interested in AI, computational aesthetics.
+- 🧪 Currently exploring: A very short history in AI, Visual Storytelling.
 - 🛠 I like turning abstract ideas into visual systems.
 - ✍️ Sometimes I use vibe coding.
 
@@ -39,7 +39,7 @@
 
 | Project | Description |
 |---|---|
-暂无
+|暂无|暂无|
 
 ---
 
@@ -53,9 +53,22 @@
 ---
 
 ## 📫 Contact
+## 📫 Contact
 
-<p>
-  <a href="pre01lude@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+  <a href="mailto:pre01Aude@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="mailto:jqhu25@stu.pku.edu.cn">
+    <img src="https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=mail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/your-id">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+```txt
+> open to collaboration
+> research • data • documents • tools
