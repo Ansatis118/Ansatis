@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+thoughtful+tools;Designing+with+code;Exploring+Everything+PROMISING+INTERESTING" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+INFRASTRUCTURES;Exploring+Everything+PROMISING+＆+INTERESTING" />
 </p>
 
 ---
